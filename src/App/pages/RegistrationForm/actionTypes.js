@@ -1,0 +1,6 @@
+const actions = {
+    REGISTRATION_USER: "REGISTRATION_USER",
+    REGISTRATION_USER_SUCCESS: "REGISTRATION_USER_SUCCESS",
+}
+
+export default actions; 

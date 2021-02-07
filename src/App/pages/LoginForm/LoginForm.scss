@@ -1,0 +1,12 @@
+.user-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 550px;
+    margin: 10px auto !important;
+    padding: 10px !important;
+
+    .user-form-item {
+        max-width: 150px;
+    }
+}
